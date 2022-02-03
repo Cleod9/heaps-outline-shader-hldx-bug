@@ -1,0 +1,13 @@
+-lib heaps
+
+-main Main
+
+--each
+
+-lib hlsdl
+-hl hlboot-sdl.dat
+
+--next
+
+-lib hldx
+-hl hlboot-dx.dat
